@@ -1,1 +1,1 @@
-es la rama dos y estoy probando el git bash
+Es la rama principal
